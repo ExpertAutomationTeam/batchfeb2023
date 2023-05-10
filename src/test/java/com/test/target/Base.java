@@ -17,12 +17,13 @@ public static ReadConfig readConfig = new ReadConfig();
 
 
     @Parameters("browser")
-    @BeforeClass
-    public void setup(String browser){
+    @BeforeSuite
+    public void setup(@Optional("chrome") String browser){
         if (browser.equalsIgnoreCase("chrome")){
             driver=new ChromeDriver();
            // System.out.println("chromedriver launched");
             Log.info("chromedriver launched");
+            Log.info("i am launching chrome");
         } else if (browser.equalsIgnoreCase("firefox")) {
             driver=new FirefoxDriver();
             System.out.println("FirefoxDriver launched");
@@ -40,7 +41,7 @@ public static ReadConfig readConfig = new ReadConfig();
 
     }
 
-    @AfterClass
+    @AfterSuite
     public void tearDown() throws InterruptedException {
         if (driver!=null){
             Thread.sleep(4000);

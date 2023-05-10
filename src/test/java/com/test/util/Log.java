@@ -7,7 +7,8 @@ public class Log {
 
     public static final Logger Log= LogManager.getLogger(Log.class);
 
-    public static void info(String message){
+    public static void info(String message)
+    {
         Log.info(message);
     }
 

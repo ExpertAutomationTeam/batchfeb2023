@@ -58,4 +58,22 @@ public class ReadConfig {
 
     }
 
+    public String getdbUser(){
+        String dbusername = properties.getProperty("dbusername");
+        return dbusername;
+
+    }
+
+    public String getdbpass(){
+        String dbpass = properties.getProperty("dbpass");
+        return dbpass;
+
+    }
+
+    public String getdbURL(){
+        String dburl = properties.getProperty("dburl");
+        return dburl;
+
+    }
+
 }

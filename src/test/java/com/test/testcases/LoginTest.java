@@ -10,7 +10,7 @@ import org.testng.asserts.SoftAssert;
 
 public class LoginTest extends Base {
 
-    @Test(dataProvider = "logindata")
+    @Test(priority = 1, dataProvider = "logindata")
     public void loginTest(String user, String pass) throws InterruptedException {
         HomePage hp = new HomePage(driver);
         LoginPage lp = hp.goToSignIn();
@@ -29,9 +29,9 @@ public class LoginTest extends Base {
     public Object[][] getdata(){
 
         String [][] loginData= {
-                { "rhasan@yahoo.com","Abc!234"},
-                {"test@gmail","Xyz!23456"},
-                { "ExpertAuto@hotmail.com","pqr!234"}
+                { "rhasan@yahoo.comhardcode","Abc!234"},
+                {"test@gmailhardcode","Xyz!23456"},
+                { "ExpertAutohardcode@hotmail.com","pqr!234"}
         };
         return loginData;
 
@@ -68,11 +68,11 @@ public class LoginTest extends Base {
         //1. Hard Assertions = if fails , no further steps/code will execute
         //2. Soft Assertions = if fails, further steps/code will execute
 
-       // SoftAssert softAssert= new SoftAssert();
+       //SoftAssert softAssert= new SoftAssert();
         //softAssert.assertEquals(driver.getTitle(),"Facebook");
 
         //Hard Assert
-      //  Assert.assertEquals(driver.getTitle(),"Facebook","test failed");
+      //Assert.assertEquals(driver.getTitle(),"Facebook","test failed");
 
 
 

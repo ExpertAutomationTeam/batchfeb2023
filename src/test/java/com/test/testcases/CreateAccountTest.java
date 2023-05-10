@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 public class CreateAccountTest extends Base {
 
-    @Test
+    @Test(priority = 3)
     public void createAccTest(){
         HomePage hp = new HomePage(driver);
         CreateAccountPage cap=hp.goToCreateAccountPage();

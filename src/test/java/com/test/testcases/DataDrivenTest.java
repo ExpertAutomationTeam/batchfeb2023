@@ -23,7 +23,7 @@ public class DataDrivenTest extends Base {
 
  */
 
-    @Test(dataProvider = "ddt")
+    @Test(priority = 2,dataProvider = "ddt")
     public void ddt(String user, String pass) throws InterruptedException {
         LoginPage lp = new LoginPage(driver);
         lp.doLoginFB(user,pass);

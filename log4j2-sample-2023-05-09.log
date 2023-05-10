@@ -1,0 +1,73 @@
+[INFO ] 2023-05-09 16:24:14.276 [main] Log - chromedriver launched
+[INFO ] 2023-05-09 16:24:18.559 [main] Log - navigates to Target
+[INFO ] 2023-05-09 16:25:26.744 [main] Log - rhasan@yahoo.com Abc!234
+[INFO ] 2023-05-09 16:25:32.977 [main] Log - test@gmail Pqr!234
+[INFO ] 2023-05-09 16:25:39.301 [main] Log - ExpertAuto@hotmail.com Xyz!234
+[WARN ] 2023-05-09 16:26:03.739 [main] Log - browser quits
+[INFO ] 2023-05-09 16:28:26.151 [main] Log - chromedriver launched
+[INFO ] 2023-05-09 16:28:30.241 [main] Log - navigates to Target
+[INFO ] 2023-05-09 16:29:38.575 [main] Log - rhasan@yahoo.com Abc!234
+[INFO ] 2023-05-09 16:29:45.021 [main] Log - test@gmail Pqr!234
+[INFO ] 2023-05-09 16:29:51.249 [main] Log - ExpertAuto@hotmail.com Xyz!234
+[WARN ] 2023-05-09 16:30:15.657 [main] Log - browser quits
+[INFO ] 2023-05-09 18:23:55.424 [main] Log - chromedriver launched
+[INFO ] 2023-05-09 18:24:01.852 [main] Log - navigates to Target
+[INFO ] 2023-05-09 18:24:11.213 [main] Log - rhasan@yahoo.com Abc!234
+[INFO ] 2023-05-09 18:24:17.522 [main] Log - test@gmail Pqr!234
+[INFO ] 2023-05-09 18:24:23.765 [main] Log - ExpertAuto@hotmail.com Xyz!234
+[WARN ] 2023-05-09 18:24:27.908 [main] Log - browser quits
+[INFO ] 2023-05-09 19:25:01.000 [main] Log - chromedriver launched
+[INFO ] 2023-05-09 19:25:01.005 [main] Log - i am launching chrome
+[INFO ] 2023-05-09 19:25:05.876 [main] Log - navigates to Target
+[INFO ] 2023-05-09 19:25:15.209 [main] Log - rhasan@yahoo.com Abc!234
+[INFO ] 2023-05-09 19:25:21.522 [main] Log - test@gmail Pqr!234
+[INFO ] 2023-05-09 19:25:27.852 [main] Log - ExpertAuto@hotmail.com Xyz!234
+[WARN ] 2023-05-09 19:25:31.996 [main] Log - browser quits
+[INFO ] 2023-05-09 19:45:40.585 [main] Log - Hanari Carnes
+[INFO ] 2023-05-09 19:45:40.590 [main] Log - 1
+[INFO ] 2023-05-09 19:45:40.590 [main] Log - Syed Ali
+[INFO ] 2023-05-09 19:45:40.590 [main] Log - 2
+[INFO ] 2023-05-09 19:45:40.590 [main] Log - Sumit
+[INFO ] 2023-05-09 19:45:40.590 [main] Log - 3
+[INFO ] 2023-05-09 19:45:40.590 [main] Log - Yusuf
+[INFO ] 2023-05-09 19:45:40.590 [main] Log - 4
+[INFO ] 2023-05-09 19:45:40.591 [main] Log - rhasan
+[INFO ] 2023-05-09 19:45:40.591 [main] Log - 5
+[INFO ] 2023-05-09 19:45:40.591 [main] Log - Amer itani
+[INFO ] 2023-05-09 19:45:40.591 [main] Log - 6
+[INFO ] 2023-05-09 19:46:49.605 [main] Log - Hanari Carnes
+[INFO ] 2023-05-09 19:46:49.608 [main] Log - Mario Pontes
+[INFO ] 2023-05-09 19:46:49.608 [main] Log - Syed Ali
+[INFO ] 2023-05-09 19:46:49.608 [main] Log - Mario Pontes
+[INFO ] 2023-05-09 19:46:49.608 [main] Log - Sumit
+[INFO ] 2023-05-09 19:46:49.608 [main] Log - Mario Pontes
+[INFO ] 2023-05-09 19:46:49.608 [main] Log - Yusuf
+[INFO ] 2023-05-09 19:46:49.608 [main] Log - Mario Pontes
+[INFO ] 2023-05-09 19:46:49.609 [main] Log - rhasan
+[INFO ] 2023-05-09 19:46:49.609 [main] Log - Mario Pontes
+[INFO ] 2023-05-09 19:46:49.609 [main] Log - Amer itani
+[INFO ] 2023-05-09 19:46:49.609 [main] Log - Rakibul Hasan
+[INFO ] 2023-05-09 19:54:13.626 [main] Log - chromedriver launched
+[INFO ] 2023-05-09 19:54:13.640 [main] Log - i am launching chrome
+[INFO ] 2023-05-09 19:54:18.449 [main] Log - navigates to Target
+[INFO ] 2023-05-09 19:54:19.057 [main] Log - Hanari Carnes
+[INFO ] 2023-05-09 19:54:19.057 [main] Log - Mario Pontes
+[INFO ] 2023-05-09 19:54:19.057 [main] Log - Syed Ali
+[INFO ] 2023-05-09 19:54:19.057 [main] Log - Mario Pontes
+[INFO ] 2023-05-09 19:54:19.057 [main] Log - Sumit
+[INFO ] 2023-05-09 19:54:19.057 [main] Log - Mario Pontes
+[INFO ] 2023-05-09 19:54:19.057 [main] Log - Yusuf
+[INFO ] 2023-05-09 19:54:19.057 [main] Log - Mario Pontes
+[INFO ] 2023-05-09 19:54:19.058 [main] Log - rhasan
+[INFO ] 2023-05-09 19:54:19.058 [main] Log - Mario Pontes
+[INFO ] 2023-05-09 19:54:19.058 [main] Log - Amer itani
+[INFO ] 2023-05-09 19:54:19.058 [main] Log - Rakibul Hasan
+[WARN ] 2023-05-09 19:54:23.234 [main] Log - browser quits
+[INFO ] 2023-05-09 20:17:29.532 [main] Log - chromedriver launched
+[INFO ] 2023-05-09 20:17:29.547 [main] Log - i am launching chrome
+[INFO ] 2023-05-09 20:17:34.515 [main] Log - navigates to Target
+[WARN ] 2023-05-09 20:17:39.324 [main] Log - browser quits
+[INFO ] 2023-05-09 20:20:19.926 [main] Log - chromedriver launched
+[INFO ] 2023-05-09 20:20:19.930 [main] Log - i am launching chrome
+[INFO ] 2023-05-09 20:20:24.466 [main] Log - navigates to Target
+[WARN ] 2023-05-09 20:20:29.050 [main] Log - browser quits
